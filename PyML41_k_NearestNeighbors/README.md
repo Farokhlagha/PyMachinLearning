@@ -1,4 +1,4 @@
-# PyML41_k-Nearest Neighbors
+# PyML41_k Nearest Neighbors
 This program uses pandas, numpy and matplotlib libraries.
 
 ## 1- k-Nearest Neighbors (KNN)
@@ -19,7 +19,7 @@ python KNN_apple_banana_watermelon.ipynb
 ```
 
 ### Result
-KNN![](https://raw.githubusercontent.com/Farokhlagha/PyDataScience/main/PyDS40_DataScience_Billionaires/output/billionaires_USA.png)
+KNN![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML41_k-Nearest%20Neighbors/output/KNN.png)
 
 
 
