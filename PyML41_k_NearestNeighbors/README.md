@@ -19,7 +19,7 @@ python KNN_apple_banana_watermelon.ipynb
 ```
 
 ### Result
-KNN![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML41_k-Nearest%20Neighbors/output/KNN.png)
+KNN![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML41_k_NearestNeighbors/output/KNN.png)
 
 
 

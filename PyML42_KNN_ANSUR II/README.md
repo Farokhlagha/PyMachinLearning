@@ -8,7 +8,7 @@ for example: 🍎 Apple, 🍌 Banana, 🍉 Watermelon.
 
 ## 2- K-Nearest Neighbors in ANSUR II dataset
 
-ANSUR II![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML41_k-Nearest%20Neighbors/output/KNN.png)
+ANSUR II![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML42_KNN_ANSUR%20II/output/ANSUR%20II.png)
 
 [Ansur II](https://www.openlab.psu.edu/ansur2/)
 
@@ -54,9 +54,9 @@ python ansur II.ipynb
 ```
 
 ### Result
-confusion![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML41_k-Nearest%20Neighbors/output/KNN.png)
+confusion![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML42_KNN_ANSUR%20II/output/ansur_confusion_matrix.png)
 
-hist![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML41_k-Nearest%20Neighbors/output/KNN.png)
+hist![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML42_KNN_ANSUR%20II/output/ansur_hist.png)
 
 
 
