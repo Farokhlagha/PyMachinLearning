@@ -37,13 +37,13 @@ pfind_nemo.py
 ```
 
 ### Result
-nemo![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML42_KNN_ANSUR%20II/output/ansur_confusion_matrix.png)
+nemo![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML43_KNN_Nemo/output/nemo.png)
 
-dory![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML42_KNN_ANSUR%20II/output/ansur_hist.png)
+dory![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML43_KNN_Nemo/output/dory.png)
 
-iris![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML42_KNN_ANSUR%20II/output/ansur_hist.png)
+iris![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML43_KNN_Nemo/output/iris.png)
 
-breast_cancer![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML42_KNN_ANSUR%20II/output/ansur_hist.png)
+breast_cancer![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML43_KNN_Nemo/output/breast_cancer.png)
 
 
 
