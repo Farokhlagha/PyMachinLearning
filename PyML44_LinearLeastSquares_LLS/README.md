@@ -25,4 +25,4 @@ performance.ipynb
 ```
 
 ### Result
-performance![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML43_KNN_Nemo/output/nemo.png)
+performance![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML44_LinearLeastSquares_LLS/output/performance.png)
