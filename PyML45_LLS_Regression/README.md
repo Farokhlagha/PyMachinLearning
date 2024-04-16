@@ -53,8 +53,8 @@ dollar_rial.ipynb
 ```
 
 ### Result
-Ahmadinejad![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML44_LinearLeastSquares_LLS/output/performance.png)
+Ahmadinejad![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML45_LLS_Regression/output/Ahmadinejad.png)
 
-Rouhani![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML44_LinearLeastSquares_LLS/output/performance.png)
+Rouhani![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML45_LLS_Regression/output/Rouhani.png)
 
-Raisi![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML44_LinearLeastSquares_LLS/output/performance.png)
+Raisi![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML45_LLS_Regression/output/Raisi.png)
