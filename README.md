@@ -18,3 +18,11 @@ Machine Learning using Numpy, Scikit-Learn, Scipy and Keras in Python.
 4- Breast Cancer dataset
 
 ## PyML44_LinearLeastSquares_LLS
+1- Students Performance (Regression)
+
+## PyML45_LLS_Regression
+1- train_test_split
+
+2- Tehran House Price 
+
+3- Dollar Rial Price 
