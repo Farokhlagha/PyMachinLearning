@@ -34,6 +34,6 @@ salary.ipynb
 ```
 
 ### Result
-Salary![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML44_LinearLeastSquares_LLS/output/performance.png)
+Salary![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML46_PerceptionNeuron/output/salary.png)
 
-Abalone![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML44_LinearLeastSquares_LLS/output/performance.png)
+Abalone![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML46_PerceptionNeuron/output/abalone.png)
