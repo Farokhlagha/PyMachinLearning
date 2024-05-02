@@ -33,3 +33,6 @@ Machine Learning using Numpy, Scikit-Learn, Scipy and Keras in Python.
 2- Abalone dataset
 
 ## PyML47_Perceptron
+1- Surgical
+
+2- Weather
