@@ -6,22 +6,26 @@ Fit an object oriented perceptron algorithm on the surgical dataset for classifi
 
 [Dataset Surgical binary classification](https://www.kaggle.com/datasets/omnamahshivai/surgical-dataset-binary-classification)
 
-Split data to train and test datasets
+Plot accuracy in each epoch for train and test data
 
-Implement the perceptron algorithm as a class
+Plot loss in each epoch for train and test data
 
-Fit your model on the employee's salary dataset
+Calculate confusion matrix
 
-Plot data graph and loss graph as 2 subplots in 1 window
+Repeat the above steps with 5 different activation functions, e.g. sigmoid, tanh, relu, linear, etc.
 
-Change hyperparameters for get best result
+## 2- Weather Prediction
+The weather of a particular city is recorded once an hour during different years. Therefore, weather information has been recorded 24 times per day.
 
-## 2- Abalone dataset
-Fit your perceptron algorithm on the abalone dataset
+Draw the output table on the graph.
 
-Plot data graph and loss graph as 2 subplots in 1 window
+Then train a linear model on the above data using the perceptron algorithm.
 
-Change hyperparameters for get best result
+Implement the evaluate function.
+
+Write a predict function that can predict the air temperature by taking the day number (the number of days of the year).
+
+Draw the following diagrams in the training process. Save the weights (W) and bias (b) in a file with npy extension.
 
 ### How to Install
 Run following command:
@@ -32,10 +36,18 @@ pip install -r requirement.txt
 ### How to Run
 execute this command in terminal:
 ```
-salary.ipynb
+surgical.ipynb
 ```
 
 ### Result
-Salary![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML46_PerceptionNeuron/output/salary.png)
+surgical accuracy![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML46_PerceptionNeuron/output/salary.png)
 
-Abalone![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML46_PerceptionNeuron/output/abalone.png)
+Asurgical loss![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML46_PerceptionNeuron/output/abalone.png)
+
+surgical confusion matrix![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML46_PerceptionNeuron/output/abalone.png)
+
+weather prediction![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML46_PerceptionNeuron/output/abalone.png)
+
+weather accutacy loss![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML46_PerceptionNeuron/output/abalone.png)
+
+

@@ -35,4 +35,4 @@ Machine Learning using Numpy, Scikit-Learn, Scipy and Keras in Python.
 ## PyML47_Perceptron
 1- Surgical
 
-2- Weather
+2- Weather Prediction
