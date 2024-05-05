@@ -40,14 +40,14 @@ surgical.ipynb
 ```
 
 ### Result
-surgical accuracy![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML46_PerceptionNeuron/output/salary.png)
+surgical accuracy![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML47_Perceptron/output/surgical%20accuracy.png)
 
-Asurgical loss![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML46_PerceptionNeuron/output/abalone.png)
+Asurgical loss![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML47_Perceptron/output/surgical%20loss.png)
 
-surgical confusion matrix![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML46_PerceptionNeuron/output/abalone.png)
+surgical confusion matrix![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML47_Perceptron/output/surgical%20confusion%20matrix.png)
 
-weather prediction![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML46_PerceptionNeuron/output/abalone.png)
+weather prediction![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML47_Perceptron/output/weather%20prediction.png)
 
-weather accutacy loss![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML46_PerceptionNeuron/output/abalone.png)
+weather accutacy loss![](https://raw.githubusercontent.com/Farokhlagha/PyMachinLearning/main/PyML47_Perceptron/output/weather%20accutacy%20loss.png)
 
 
