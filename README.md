@@ -37,5 +37,5 @@ Machine Learning using Numpy, Scikit-Learn, Scipy and Keras in Python.
 
 2- Weather Prediction
 
-## pylearn
+## 
 
